@@ -1,0 +1,1 @@
+GEN_CSRCS += _btn_alpha_65x65.c _NXP_Logo_alpha_60x29.c
